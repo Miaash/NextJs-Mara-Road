@@ -12,7 +12,7 @@
 // });
 
 const LocationPage = async () => {
-  return <div>예시</div>;
+  return <h1 className="text-3xl font-bold underline">예시</h1>;
 };
 
 export default LocationPage;
